@@ -25,7 +25,7 @@
 #include <vector>
 #include <stdexcept>
 #include <termios.h>
-
+#include <unistd.h>
 
 /**
  *
